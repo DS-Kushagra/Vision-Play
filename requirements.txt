@@ -1,0 +1,4 @@
+ultralytics
+roboflow
+# OpenCV
+supervision
