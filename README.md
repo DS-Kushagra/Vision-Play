@@ -1,4 +1,4 @@
-# VISION-PLAY : Advance Motion & Team Analysis
+# VISION-PLAY : Advanced Motion & Team Analysis
 
 ## 🔎 Project Overview
 
